@@ -1,0 +1,4 @@
+magazinator
+===========
+
+Go to MagazineLuiza
