@@ -1,0 +1,19 @@
+{
+    "content_scripts": [
+        {
+            "js": [
+                "background.js"
+            ],
+            "matches": [
+                "*://*/*"
+            ]
+        }
+    ],
+    "description": "Go to MagazineLuiza",
+    "manifest_version": 2,
+    "name": "Magazinator",
+    "permissions": [
+        "activeTab"
+    ],
+    "version": "1.0"
+}
