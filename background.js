@@ -18,6 +18,7 @@
             'fastshop',
             'fnac',
             'girafa',
+            'jeanbittar',
             'kabum',
             'kangoolu',
             'laranja',
@@ -32,7 +33,7 @@
             'shoptime',
             'submarino',
             'tricae',
-            'walmart',
+            'walmart'
         ];
 
     names.forEach(function (invalid) {
