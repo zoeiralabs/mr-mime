@@ -15,7 +15,7 @@
     "permissions": [
         "activeTab"
     ],
-    "version": "1.0",
+    "version": "1.1",
     "icons": {
         "48": "lu48.png",
         "128": "lu128.png"
