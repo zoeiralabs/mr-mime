@@ -1,7 +1,4 @@
-magazinator
-===========
+=======
+# mr-mime
+Chorme Plugin for great transparent divs :)
 
-Go to MagazineLuiza
-
-
-https://chrome.google.com/webstore/detail/magazinator/jhiijemnefknmpocmlfopjfhdeondimg
