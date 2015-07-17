@@ -9,15 +9,15 @@
             ]
         }
     ],
-    "description": "Go to MagazineLuiza",
+    "description": "Non-Clickable websites for you !",
     "manifest_version": 2,
-    "name": "Magazinator",
+    "name": "Mr Mime",
     "permissions": [
         "activeTab"
     ],
-    "version": "1.2",
+    "version": "1.0",
     "icons": {
-        "48": "lu48.png",
-        "128": "lu128.png"
+        "48": "MrMime48.png",
+        "128": "MrMime128.png"
     }
 }
